@@ -36,7 +36,7 @@ More projects coming soon.
 
 ## Background
 
-I studied medical physiology and pharmacy for my undergraduate degree. Before my MSc I worked at the intersection of health, data, and technology in Kenya. I am interested in how computational approaches can advance understanding of disease biology, particularly in contexts relevant to African populations.
+I have an Msc in precision medicine from the University of Glasgow. I studied medical physiology and pharmacy for my undergraduate degree. Before my MSc I worked at the intersection of health, data, and technology in Kenya. I am interested in how computational approaches can advance understanding of disease biology, particularly in contexts relevant to African populations.
 
 ---
 
