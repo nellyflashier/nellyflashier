@@ -25,10 +25,10 @@ I analyse sequencing data to answer biological questions. My experience covers:
 ---
 
 ## Selected projects
-
 | Project | Description | Key tools |
 |--------|-------------|-----------|
-| [Multi-OMICS analyses](https://github.com/nellyflashier/My-OMICS) | Bulk RNA-seq, single-cell, and spatial omics analyses on disease-relevant datasets | R, Seurat, DESeq2 |
+| [Bulk RNA-seq: P53 Activation in AML](https://github.com/nellyflashier/Bulk-RNA-seq-Acute-Myeloid-Leukemia) | Comparing transcriptional effects of MDM2 inhibition, BET inhibition, and combination treatment in AML stem cells | R, DESeq2, clusterProfiler |
+| [Single-cell RNA-seq: Melanoma TME](https://github.com/nellyflashier/Single-Cell-Omics-on-Melanoma) | Tumour heterogeneity and microenvironment interactions in melanoma, including mutational status and cell-cell communication | R, Seurat, Harmony, CellChat |
 
 More projects coming soon.
 
