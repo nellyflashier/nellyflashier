@@ -1,8 +1,8 @@
-## Hi there 👋
-# Hi, I'm Nelly Nyaga
+## Hi there,👋 glad to have you here! 
 
-I am a computational biologist with an MSc in Precision Medicine from the University of Glasgow. My work sits at the intersection of multi-omics data analysis and human disease, with a focus on cancer, rare diseases, and non-communicable diseases.
+My name is Nelly Nyaga, a computational biologist with an MSc in Precision Medicine from the University of Glasgow. My work sits at the intersection of multi-omics data analysis and human disease, with a focus on cancer, rare diseases, and non-communicable diseases.
 
+I enjoy figuring things out, solving problems.
 ---
 
 ## What I work on
@@ -20,7 +20,7 @@ I analyse sequencing data to answer biological questions. My experience covers:
 
 **Primary:** R (DESeq2, Seurat, clusterProfiler, ggplot2, Bioconductor)  
 **Secondary:** Python, Jupyter  
-**Workflows:** Snakemake, bash scripting, Git  
+**Workflows:** Bash scripting, Git  
 **Other:** ORCID [0000-0002-9246-3621](https://orcid.org/0000-0002-9246-3621)
 
 ---
@@ -37,9 +37,9 @@ More projects coming soon.
 
 ## Background
 
-Before my MSc I worked at the intersection of health, data, and technology in Kenya. I am interested in how computational approaches can advance understanding of disease biology, particularly in contexts relevant to African populations.
+I studied medical physiology and pharmacy for my undergraduate degree. Before my MSc I worked at the intersection of health, data, and technology in Kenya. I am interested in how computational approaches can advance understanding of disease biology, particularly in contexts relevant to African populations.
 
 ---
 
 *Open to research collaborations, bioinformatics roles, and remote opportunities.*  
-📫 Reach me on [X/Twitter](https://x.com/nellyflashier)
+📫 Reach me on LinkedIn: https://www.linkedin.com/in/nelly-nyaga-17800bab/
