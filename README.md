@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 # Hi, I'm Nelly Nyaga
 
 I am a computational biologist with an MSc in Precision Medicine from the University of Glasgow. My work sits at the intersection of multi-omics data analysis and human disease, with a focus on cancer, rare diseases, and non-communicable diseases.
